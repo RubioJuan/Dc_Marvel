@@ -215,3 +215,10 @@ const personajes = [
         "name": "Mujer Maravilla"
     }
 ]
+
+window.onload = hero1
+function hero1() {
+    let spiderman = document.getElementById('spiderman')
+    let galery = personajes[0].picture
+    spiderman.src= galery
+}
