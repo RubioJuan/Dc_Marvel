@@ -338,3 +338,24 @@ function hero1() {
     let galery29=personajes[29].picture
     mujerMaravilla.src=galery29
 }
+
+if(document.getElementById("extra")){
+    let modal = document.getElementById("myModal");
+    let button = document.getElementById("extra");
+    let span = document.getElementsByClassName("close")[0];
+    let body = document.getElementsByTagName("body");
+
+    button.onclick= function(){
+        modal.style.display= "block";
+        body.style.position = "static";
+        body.style.height = "100%";
+        body.style.oveflow = "hidden";
+    }
+
+    span.onclick = fuction();{
+        modal.style.display = "none";
+        body.style.position = "inherit";
+        body.style.height = "auto";
+        body.style.oveflow = "visible";
+    }
+}
