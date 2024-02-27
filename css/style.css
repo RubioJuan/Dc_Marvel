@@ -17,3 +17,21 @@
 body{
     background:linear-gradient(to left, #5d68cc , #d85353 );
 }  
+.hola{
+    margin: 15px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#iroman{
+    width: 360px;
+    height: 360px;
+}
+#capitanAmerica{
+    width: 450px;
+    height: 360px;
+}
+#thor{
+    width: 300px;
+    height: 360px;
+}

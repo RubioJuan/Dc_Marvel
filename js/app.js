@@ -9,7 +9,7 @@ const personajes = [
     {
         "id": "Iroman",
         "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
-        "picture": "https://www.mundodeportivo.com/alfabeta/hero/2023/12/iron-man-endgame-ucm.jpg?width=1200&aspect_ratio=16:9",
+        "picture": "https://www.geekmi.news/__export/1698454800382/sites/debate/img/2023/10/24/disexo_sin_txtulo_x45x.jpg_423682103.jpg",
     "squarePic": "https://static.wikia.nocookie.net/disney/images/9/96/Iron-Man-AOU-Render.png/revision/latest/scale-to-width-down/1200?cb=20180410032118&path-prefix=es",
         "name": "Iroman"
     },
@@ -221,4 +221,17 @@ function hero1() {
     let spiderman = document.getElementById('spiderman')
     let galery = personajes[0].picture
     spiderman.src= galery
+
+    let iroman = document.getElementById('iroman')
+    let galery1 = personajes[1].picture
+    iroman.src= galery1
+
+    let capitanAmerica = document.getElementById('capitanAmerica')
+    let galery2 = personajes[2].picture
+    capitanAmerica.src= galery2
+
+    let thor = document.getElementById('thor')
+    let galery3 = personajes[3].picture
+    thor.src =galery3
 }
+
