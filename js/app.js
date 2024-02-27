@@ -16,14 +16,14 @@ const personajes = [
     {
         "id": "Capitan America",
         "about": "Esse magna Lorem ipsum incididunt sit. Enim eiusmod proident in adipisicing anim excepteur laborum magna aliqua adipisicing ad qui aliqua. Eiusmod enim ullamco laboris adipisicing tempor sint labore. Exercitation cupidatat incididunt nostrud velit nisi aute eu ex pariatur deserunt mollit. Deserunt nisi enim irure elit. Aute amet amet consequat laborum dolor sint anim Lorem id fugiat commodo cupidatat ad. Ipsum quis enim consectetur occaecat laboris esse.",
-        "picture": "https://www.mundodeportivo.com/alfabeta/hero/2023/07/capitan-america-uno-de-los-superheroes-mas-iconicos-del-mundo-por-su-escudo.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+        "picture": "https://pm1.aminoapps.com/6072/a6accc9fef58647c3aa6607a712b5e6bfefa07d4_hq.jpg",
     "squarePic": "https://static.wikia.nocookie.net/disney/images/f/fa/Captain-America-AOU-Render.png/revision/latest?cb=20180420015558&path-prefix=es",
         "name": "Capitan America"
     },
     {
         "id": "Thor",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://www.akiracomics.com/imagenes/poridentidad?identidad=743556e5-39ed-4b42-9762-3596c8ec15cf&ancho=850&alto=",
+        "picture": "https://i.pinimg.com/736x/ac/96/91/ac96918f842e8ef6595ae192adf76fce.jpg",
     "squarePic": "https://static.wikia.nocookie.net/personajes-de-ficcion-database/images/c/cb/Classic_Thor.png/revision/latest/scale-to-width-down/519?cb=20201003125917&path-prefix=es",
         "name": "Thor"
     },
@@ -43,28 +43,28 @@ const personajes = [
     {
         "id": "Deadpool",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://www.eltiempo.com/files/article_main_1200/uploads/2017/07/12/5966363401170.jpeg",
+        "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/424b4e7e-df3c-4d76-a996-927cced18d13/devksi3-dd8abcd4-d3c0-48d7-a5ec-f9146bbbda13.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyNGI0ZTdlLWRmM2MtNGQ3Ni1hOTk2LTkyN2NjZWQxOGQxM1wvZGV2a3NpMy1kZDhhYmNkNC1kM2MwLTQ4ZDctYTVlYy1mOTE0NmJiYmRhMTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.X7mYEDhmVNVvGd3JhEITOgzwfmUnfILIFfWDWmfvrkg",
     "squarePic": "hhttps://static.wikia.nocookie.net/ficcion-sin-limites/images/8/88/DP.png/revision/latest/scale-to-width-down/370?cb=20210217170751&path-prefix=es",
         "name": "Deadpool"
     },
     {
         "id": "Wolverine",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://media.gq.com/photos/58b9fda8803bdb766dd69ef7/16:9/w_1280,c_limit/wolverine.jpg",
+        "picture": "https://i0.wp.com/www.tomosygrapas.com/wp-content/uploads/2017/11/wolverine-principal.jpg",
     "squarePic": "https://static.wikia.nocookie.net/featteca/images/8/82/Wolverine_PNG1.png/revision/latest/scale-to-width-down/477?cb=20220219192157&path-prefix=es",
         "name": "Wolverine"
     },
     {
         "id": "Loki",
         "about": "Ipsum duis incididunt ullamco tempor. Amet incididunt Lorem consequat labore culpa. Pariatur amet veniam reprehenderit sunt laborum excepteur. Labore eu ut ut Lorem labore aliqua quis ex elit nulla in incididunt commodo aliquip. Velit excepteur eiusmod Lorem esse officia. Irure aliquip Lorem fugiat voluptate dolor duis consectetur aliquip pariatur tempor reprehenderit deserunt.",
-        "picture": "https://www.denofgeek.com/wp-content/uploads/2021/06/loki-marvel-comics-ebay.jpg?fit=1200%2C675",
+        "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3acc143-332f-43c9-8707-d61106b45a55/dehc4sb-9e2e0504-9f7d-4e8d-80f6-8cf4e6ac4f3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzYWNjMTQzLTMzMmYtNDNjOS04NzA3LWQ2MTEwNmI0NWE1NVwvZGVoYzRzYi05ZTJlMDUwNC05ZjdkLTRlOGQtODBmNi04Y2Y0ZTZhYzRmM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rf17brC9nEkNZAxCCTUdZ22lX3Fn6xjJBa4EZi_o6OE",
     "squarePic": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Loki_Laufeyson_%28Earth-616%29_from_Thor_Vol_3_12_0001.jpg/revision/latest?cb=20201011071529",
         "name": "Loki"
     },
     {
         "id": "Pantera Negra",
         "about": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit. Laborum ut magna officia qui laboris eiusmod do culpa. Culpa dolor officia velit cillum culpa deserunt cupidatat cillum ipsum laborum.",
-        "picture": "hhttps://static.wikia.nocookie.net/marvel/images/8/83/Original_Sin_Vol_1_2_Variante_de_Dell%27Otto_Sin_Texto.jpg/revision/latest?cb=20150627194318&path-prefix=es",
+        "picture": "https://www.smashmexico.com.mx/wp-content/uploads/sites/2/2018/01/12073615/marvel-datos-black-panther-traje.jpg",
     "squarePic": "https://i.pinimg.com/1200x/fa/4b/98/fa4b9861c9bd99c754d3487b3b4637ce.jpg",
         "name": "Pantera Negra"
     },
@@ -78,28 +78,28 @@ const personajes = [
     {
         "id": "Duende Verde",
         "about": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa. Cillum voluptate reprehenderit aute consectetur.",
-        "picture": "https://esports.as.com/2022/01/13/fortnite/Duende-Verde_1537656246_894316_1440x810.jpg",
+        "picture": "https://pm1.aminoapps.com/6287/a6d14d4645386c4dff6eefb5663bd84cc03311ff_00.jpg",
     "squarePic": "https://e7.pngegg.com/pngimages/837/430/png-clipart-spider-man-green-goblin-supervillain-iron-man-green-goblin-superhero-villain-thumbnail.png",
         "name": "Duende Verde"
     },
     {
         "id": "Doctor Octopus",
         "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
-        "picture": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/e/e9/DocOckSpiderman2.jpg/revision/latest/scale-to-width-down/1200?cb=20190108194205&path-prefix=es",
+        "picture": "https://e1.pxfuel.com/desktop-wallpaper/657/476/desktop-wallpaper-dr-otto-octavius-doctor-octopus-marvel-comics.jpg",
     "squarePic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/335e007c-4af8-4e62-8040-af07c0929c24/dfy8b0l-2a6d7945-7aa4-475a-a893-e6e0ceba0e2f.png/v1/fit/w_375,h_516/doctor_octopus__2021__marvel_puzzle_quest__render_by_egg84_dfy8b0l-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NiIsInBhdGgiOiJcL2ZcLzMzNWUwMDdjLTRhZjgtNGU2Mi04MDQwLWFmMDdjMDkyOWMyNFwvZGZ5OGIwbC0yYTZkNzk0NS03YWE0LTQ3NWEtYTg5My1lNmUwY2ViYTBlMmYucG5nIiwid2lkdGgiOiI8PTc3NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Fkt7C-mXIKtkS4KXDI3yInyajJELRATffzl9PtoWFiQ",
         "name": "Doctor Octopus"
     },
     {
         "id": "Mysterio",
         "about": "Esse magna Lorem ipsum incididunt sit. Enim eiusmod proident in adipisicing anim excepteur laborum magna aliqua adipisicing ad qui aliqua. Eiusmod enim ullamco laboris adipisicing tempor sint labore. Exercitation cupidatat incididunt nostrud velit nisi aute eu ex pariatur deserunt mollit. Deserunt nisi enim irure elit. Aute amet amet consequat laborum dolor sint anim Lorem id fugiat commodo cupidatat ad. Ipsum quis enim consectetur occaecat laboris esse.",
-        "picture": "8Earth-199999%29_from_Spider-Man_Far_from_Home_promotional_art_001.jpg/revision/latest?cb=20190714205418&path-prefix=es",
+        "picture": "https://cdn.marvel.com/content/1x/1_88a91.png",
     "squarePic": "https://i.pinimg.com/736x/43/26/1f/43261f9552e0edee27e1783f58ce30e8.jpg",
         "name": "Mysterio"
     },
     {
         "id": "Ant-Man",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://i.pinimg.com/originals/94/3c/e7/943ce76a717a773a0ee4537d1c96a636.png",
+        "picture": "https://i.pinimg.com/474x/da/b9/13/dab913dacebd200f3d1ef48029259740.jpg",
     "squarePic": "https://static.wikia.nocookie.net/marveldatabase/images/7/7c/Astonishing_Ant-Man_Vol_1_10_Mighty_Men_of_Marvel_Cancelled_Variant_Textless.jpg/revision/latest?cb=20160319233924",
         "name": "Ant-Man"
     },
@@ -113,21 +113,21 @@ const personajes = [
     {
         "id": "Batman",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://www.mundodeportivo.com/alfabeta/hero/2024/02/batman-bruce-wayne-dc.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+        "picture": "https://www.geekmi.news/__export/1604437633818/sites/debate/img/2020/11/03/batman.jpg_423682103.jpg",
     "squarePic": "https://i.pinimg.com/736x/57/f1/3e/57f13ec1b6e2d5712d03fec842e08356.jpg",
         "name": "Batman"
     }, 
     {
         "id": "Superman",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://media.glamour.mx/photos/639a9161ae6d5769b13abe3f/1:1/w_1713,h_1713,c_limit/henry_cavill_deja_superman.jpg",
+        "picture": "https://i.pinimg.com/474x/db/15/ba/db15bac66d1fb1794d53eaa90e5af7db.jpg",
     "squarePic": "https://static.wikia.nocookie.net/superman/images/4/4d/Superman_Moderno.png/revision/latest/thumbnail/width/360/height/360?cb=20150126220714&path-prefix=es",
         "name": "Superman"
     },
     {
         "id": "Arrow",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://4.bp.blogspot.com/-G-gNCQJHA5g/UlyjK-qxF6I/AAAAAAAAEBs/uXnBmtcFsWk/s400/315px-Green_Arrow_Oliver_Queen-4.jpg",
+        "picture": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg",
     "squarePic": "https://static.wikia.nocookie.net/doblaje/images/3/30/4315129-green%2Barrow.jpg/revision/latest?cb=20160531182627&path-prefix=es",
         "name": "Arrow"
     },
@@ -141,62 +141,62 @@ const personajes = [
     {
         "id": "Linterna Verde",
         "about": "Ipsum duis incididunt ullamco tempor. Amet incididunt Lorem consequat labore culpa. Pariatur amet veniam reprehenderit sunt laborum excepteur. Labore eu ut ut Lorem labore aliqua quis ex elit nulla in incididunt commodo aliquip. Velit excepteur eiusmod Lorem esse officia. Irure aliquip Lorem fugiat voluptate dolor duis consectetur aliquip pariatur tempor reprehenderit deserunt.",
-        "picture": "https://media.revistagq.com/photos/64073419d8bd3a1a762bdf58/1:1/w_675,h_675,c_limit/por-que-linterna-verde-fracaso.jpg",
+        "picture": "https://pm1.aminoapps.com/6149/2577219b15f0dd53d06680c5562ce8925524d2e1_00.jpg",
     "squarePic": "https://static.wikia.nocookie.net/batman/images/8/88/Linterna-verde.jpg/revision/latest?cb=20170921191634&path-prefix=es",
         "name": "Linterna Verde"
     },
     {
         "id": "Black Manta",
         "about": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit. Laborum ut magna officia qui laboris eiusmod do culpa. Culpa dolor officia velit cillum culpa deserunt cupidatat cillum ipsum laborum.",
-        "picture": "https://static.wikia.nocookie.net/dccu/images/1/1f/Black_Manta_Profile.jpg/revision/latest?cb=20231016151135",
+        "picture": "https://i.pinimg.com/originals/ff/a1/c8/ffa1c8514637f7886d6d2ed0f8fe58eb.jpg",
     "squarePic": "https://www.zonanegativa.com/imagenes/2021/09/BLACK-DES.jpg",
         "name": "Black Manta"
     },
     {
         "id": "Roy Harper",
         "about": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem. Est culpa esse aliqua non labore dolor esse labore nulla mollit. Nostrud amet est quis adipisicing dolor. Labore veniam elit veniam non ad ex consequat excepteur eiusmod. Minim cupidatat velit Lorem culpa quis consequat incididunt qui amet incididunt pariatur ex aliquip aliqua. Magna ex elit in aliquip minim eu ut ut fugiat ullamco deserunt adipisicing cillum.",
-        "picture": "https://static.wikia.nocookie.net/actiontalesfanfict/images/2/22/Arsenal_RoyHarper.jpg/revision/latest?cb=20140902091612&path-prefix=es",
+        "picture": "https://i.redd.it/uy1lm1c8ch7b1.jpg",
     "squarePic": "https://upload.wikimedia.org/wikipedia/en/d/d6/Roy_Harper_%28Speedy_-_Arsenal_-_Red_Arrow%29%2C_DC_Comics_character.jpg",
         "name": "Roy Harper"
     },
     {
         "id": "Victor Stone",
         "about": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa. Cillum voluptate reprehenderit aute consectetur.",
-        "picture": "https://static.wikia.nocookie.net/dcextendeduniverse/images/2/2a/Victor_Stone.png/revision/latest?cb=20240104055756&path-prefix=es",
+        "picture": "https://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/979895588_orig.jpg",
     "squarePic": "https://images7.alphacoders.com/115/1150055.jpg",
         "name": "Victor Stone"
     },
     {
         "id": "Acertijo",
         "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
-        "picture": "https://lh3.googleusercontent.com/proxy/M1rg7BzSeBW9pUFMJU0o-aue0nGRlxghTQY2HNp7eeTnunoFPZ-nKvweaNuhHfGSPk3-2_yH6O4jVuwSyJtc9GtyXbQzkk2MoJafOs1jkonW0bkixC8SawbeE1YLrUwwG_r8OQqo0qr0MqVRU8SCkhKPMs0xiEp8-RsqPGAt_x2sx5DVar2C2Vm-wjbMcZPp6ziM4PadV65ERah01xjVXXgpxjfaO1nRRcU4",
+        "picture": "https://www.looper.com/img/gallery/a-familiar-face-is-being-eyed-to-play-riddler-in-the-batman/intro-1565023656.jpg",
     "squarePic": "https://i.pinimg.com/originals/c8/4c/5a/c84c5af2e49326d2fbb562b29efcbeb7.png",
         "name": "Acertijo"
     },
     {
         "id": "Joker",
         "about": "Esse magna Lorem ipsum incididunt sit. Enim eiusmod proident in adipisicing anim excepteur laborum magna aliqua adipisicing ad qui aliqua. Eiusmod enim ullamco laboris adipisicing tempor sint labore. Exercitation cupidatat incididunt nostrud velit nisi aute eu ex pariatur deserunt mollit. Deserunt nisi enim irure elit. Aute amet amet consequat laborum dolor sint anim Lorem id fugiat commodo cupidatat ad. Ipsum quis enim consectetur occaecat laboris esse.",
-        "picture": "https://cde.laprensa.e3.pe/ima/0/0/2/3/0/230618.jpg",
+        "picture": "https://media.gq.com.mx/photos/5f467227ef6115112e88bcf9/1:1/w_1514,h_1514,c_limit/multimedia.normal.8f06f5c72b963335.6261746d616e2d74687265652d6a6f6b6572732d323033323430315f6e6f726d616c2e6a7067.jpg",
     "squarePic": "https://www.zonanegativa.com/imagenes/2022/11/destacada-deadly.jpg",
         "name": "Joker"
     },
     {
         "id": "Batman que rie",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://static.wikia.nocookie.net/batman/images/8/8d/El_Batman_que_r%C3%ADe_%28Dark_Nights_Metal%29.jpg/revision/latest?cb=20210202024210&path-prefix=es",
+        "picture": "https://i.pinimg.com/564x/1a/79/21/1a7921cfa0a36daf4aed607ac05c82f0.jpg",
     "squarePic": "https://qph.cf2.quoracdn.net/main-qimg-db0d94f4a533687a72812bd2759d7b1d-lq",
         "name": "Batman que rie"
     },
     {
         "id": "Harley quinn",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://e7.pngegg.com/pngimages/44/9/png-clipart-harley-quinn-joker-batman-supervillain-dc-comics-harley-quinn-comics-heroes.png",
+        "picture": "https://sm.ign.com/t/ign_es/feature/h/how-dcs-ha/how-dcs-harleen-reinvents-harley-quinns-tragic-origin-story_d4kq.1280.jpg",
     "squarePic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77768f52-334f-4ce8-a583-4704f0d5e15f/dgfa05e-ed9efcfe-4b0e-4cef-a89e-26ff13f0f563.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3NzY4ZjUyLTMzNGYtNGNlOC1hNTgzLTQ3MDRmMGQ1ZTE1ZlwvZGdmYTA1ZS1lZDllZmNmZS00YjBlLTRjZWYtYTg5ZS0yNmZmMTNmMGY1NjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5SIIa3nirrwcY7uKkoP6zPtWUT7VNUz_PM6fC4oeUEs",
         "name": "Harley quinn"
     }, {
         "id": "Flash",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://i.blogs.es/c883f0/the-flash-hbo-max-mexico/650_1200.jpeg",
+        "picture": "https://i.pinimg.com/originals/2a/33/40/2a33400f5e4b9cd90fc4645c19f28b2e.jpg",
     "squarePic": "https://i.pinimg.com/originals/2a/33/40/2a33400f5e4b9cd90fc4645c19f28b2e.jpg",
         "name": "Flash"
     },
@@ -210,7 +210,7 @@ const personajes = [
     {
         "id": "Mujer Maravilla",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
-        "picture": "https://static01.nyt.com/images/2017/06/02/arts/02WONDER/02WONDER-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "picture": "https://elcomercio.pe/resizer/a5kviPbJuSbdbzwk92d1ZL_NTYU=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/AAOCDQB5QFBGFGOQE6STYLGOZE.jpg",
     "squarePic": "https://www.eltiempo.com/files/image_640_428/uploads/2017/05/27/592a2cb922681.jpeg",
         "name": "Mujer Maravilla"
     }
@@ -233,5 +233,108 @@ function hero1() {
     let thor = document.getElementById('thor')
     let galery3 = personajes[3].picture
     thor.src =galery3
-}
 
+    let doctorStranger = document.getElementById('doctorStranger')
+    let galery4 = personajes[4].picture
+    doctorStranger.src =galery4
+
+    let hulk = document.getElementById('hulk')
+    let galery5 = personajes[5].picture
+    hulk.src =galery5
+
+    let deadpool = document.getElementById('deadpool')
+    let galery6 = personajes[6].picture
+    deadpool.src =galery6
+
+    let wolverine = document.getElementById('wolverine')
+    let galery7 =personajes[7].picture
+    wolverine.src =galery7
+
+    let loki = document.getElementById('loki')
+    let galery8 =personajes[8].picture
+    loki.src =galery8
+
+    let panteraNegra =document.getElementById('panteraNegra')
+    let galery9 =personajes[9].picture
+    panteraNegra.src=galery9
+
+    let RocketRaccoon = document.getElementById('RocketRaccoon')
+    let galery10 =personajes[10].picture
+    RocketRaccoon.src=galery10
+
+    let duendeVerde =document.getElementById('duendeVerde')
+    let galery11 =personajes[11].picture
+    duendeVerde.src =galery11
+
+    let doctorOptopus =document.getElementById('doctorOptopus')
+    let galery12 =personajes[12].picture
+    doctorOptopus.src=galery12
+
+    let Mysterio =document.getElementById('Mysterio')
+    let galery13 =personajes[13].picture
+    Mysterio.src=galery13
+
+    let atman =document.getElementById('atman')
+    let galery14=personajes[14].picture
+    atman.src=galery14
+
+    let Batman=document.getElementById('Batman')
+    let galery15=personajes[15].picture
+    Batman.src=galery15
+
+    let Superman=document.getElementById('Superman')
+    let galery16=personajes[16].picture
+    Superman.src=galery16
+
+    let Arrow=document.getElementById('Arrow')
+    let galery17=personajes[17].picture
+    Arrow.src=galery17
+
+    let SaintWalker=document.getElementById('SaintWalker')
+    let galery18=personajes[18].picture
+    SaintWalker.src=galery18
+
+    let LinternaVerde =document.getElementById('LinternaVerde')
+    let galery19=personajes[19].picture
+    LinternaVerde.src=galery19
+
+    let BlackManta=document.getElementById('BlackManta')
+    let galery20=personajes[20].picture
+    BlackManta.src=galery20
+
+    let RoyHarper=document.getElementById('RoyHarper')
+    let galery21=personajes[21].picture
+    RoyHarper.src=galery21
+
+    let VictorStone=document.getElementById('VictorStone')
+    let galery22=personajes[22].picture
+    VictorStone.src=galery22
+
+    let acertijo=document.getElementById('acertijo')
+    let galery23=personajes[23].picture
+    acertijo.src=galery23
+
+    let joker=document.getElementById('joker')
+    let galery24=personajes[24].picture
+    joker.src=galery24
+
+    let batmanRie=document.getElementById('batmanRie')
+    let galery25=personajes[25].picture
+    batmanRie.src=galery25
+
+    let queen=document.getElementById('queen')
+    let galery26=personajes[26].picture
+    queen.src=galery26
+
+    let Flash=document.getElementById('Flash')
+    let galery27=personajes[27].picture
+    Flash.src=galery27
+
+    let bane=document.getElementById('bane')
+    let galery28=personajes[28].picture
+    bane.src=galery28
+
+    let mujerMaravilla=document.getElementById('mujerMaravilla')
+    let galery29=personajes[29].picture
+    mujerMaravilla.src=galery29
+}

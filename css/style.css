@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    padding: 0;
 }
 .logo{
     width: 75px;
@@ -18,20 +18,27 @@ body{
     background:linear-gradient(to left, #5d68cc , #d85353 );
 }  
 .hola{
-    margin: 15px;
+    gap: 15px;
     display: grid;
-    grid-template-rows: 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit,minmax(250px, 1fr));
 }
-#iroman{
-    width: 360px;
-    height: 360px;
+.hola img{
+    border: solid black;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 7px;
 }
-#capitanAmerica{
-    width: 450px;
-    height: 360px;
-}
-#thor{
-    width: 300px;
-    height: 360px;
+.titulo1{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border: solid 1px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0);
+    background: rgb(193, 191, 191);
+    opacity: 0.9;
+    font-weight: 700;
+    align-items: center;
 }
