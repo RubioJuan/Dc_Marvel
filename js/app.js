@@ -3,83 +3,83 @@ const personajes = [
         "id": "Spiderman",
         "about": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa. Cillum voluptate reprehenderit aute consectetur.",
         "picture": "https://static.tvtropes.org/pmwiki/pub/images/amazing_spider_man_vol_2_50_textless.png",
-    "squarePic": "https://static.wikia.nocookie.net/ficcion-sin-limites/images/6/6b/Spidey.png/revision/latest/scale-to-width-down/375?cb=20210226124716&path-prefix=es",
+    "squarePic": "https://media-assets.wired.it/photos/64777453819a9a3fbb232baa/master/pass/Spider-Man.jpg",
         "name": "Spiderman"
     },
     {
         "id": "Iroman",
         "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
         "picture": "https://i0.wp.com/photos1.blogger.com/blogger/656/2170/1600/Iron%20Man.jpg",
-    "squarePic": "https://static.wikia.nocookie.net/disney/images/9/96/Iron-Man-AOU-Render.png/revision/latest/scale-to-width-down/1200?cb=20180410032118&path-prefix=es",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylUgKZplis9Tmr37LZT4WbeCMBBgHE4hPoaw42SL_3r18nYfTKeJTrSaFu38ReaFfoDU&usqp=CAU",
         "name": "Iroman"
     },
     {
         "id": "Capitan America",
         "about": "Esse magna Lorem ipsum incididunt sit. Enim eiusmod proident in adipisicing anim excepteur laborum magna aliqua adipisicing ad qui aliqua. Eiusmod enim ullamco laboris adipisicing tempor sint labore. Exercitation cupidatat incididunt nostrud velit nisi aute eu ex pariatur deserunt mollit. Deserunt nisi enim irure elit. Aute amet amet consequat laborum dolor sint anim Lorem id fugiat commodo cupidatat ad. Ipsum quis enim consectetur occaecat laboris esse.",
         "picture": "https://www.akiracomics.com/imagenes/poridentidad?identidad=c1c19372-97ca-4fef-8d35-c9cb19fbcc01&ancho=850&alto=",
-    "squarePic": "https://static.wikia.nocookie.net/disney/images/f/fa/Captain-America-AOU-Render.png/revision/latest?cb=20180420015558&path-prefix=es",
+    "squarePic": "https://e.rpp-noticias.io/xlarge/2020/06/10/005600_954931.jpg",
         "name": "Capitan America"
     },
     {
         "id": "Thor",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://pm1.aminoapps.com/6857/2a033ee70f8ad81c35510cb13a546a196175597dv2_hq.jpg",
-    "squarePic": "https://static.wikia.nocookie.net/personajes-de-ficcion-database/images/c/cb/Classic_Thor.png/revision/latest/scale-to-width-down/519?cb=20201003125917&path-prefix=es",
+    "squarePic": "https://www.latercera.com/resizer/lnL46pGRKDktOfOU5odCfEKuOpk=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/4YMBDPAUPFAXHC6ZU5EW4CGGLI.jpg",
         "name": "Thor"
     },
     {
         "id": "Doctor Strange",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://i.pinimg.com/564x/02/c5/f0/02c5f06bd86d14be48e896a88e02a6b8.jpg",
-    "squarePic": "https://cdn.kinocheck.com/i/3e1r3zcsy8.jpg",
+    "squarePic": "https://www.clarin.com/img/2022/05/05/zrOSKM_Xk_720x0__1.jpg",
         "name": "Doctor Strange"
     }, {
         "id": "Hulk",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/3-the-hulk-wall-art-tim-hill.jpg",
-    "squarePic": "https://static.wikia.nocookie.net/vsbattles/images/a/a8/Hulk_png_render_from_aou_by_joaohbd-d8knjyv.png/revision/latest/scale-to-width-down/420?cb=20161009033221",
+    "squarePic": "https://hips.hearstapps.com/hmg-prod/images/el-increible-hulk-1554403044.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*",
         "name": "Hulk"
     },
     {
         "id": "Deadpool",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://i.pinimg.com/736x/77/96/50/7796507879438bd7e0e7d978e3198981.jpg",
-    "squarePic": "hhttps://static.wikia.nocookie.net/ficcion-sin-limites/images/8/88/DP.png/revision/latest/scale-to-width-down/370?cb=20210217170751&path-prefix=es",
+    "squarePic": "https://cdn.atomix.vg/wp-content/uploads/2023/10/deadpool.jpg",
         "name": "Deadpool"
     },
     {
         "id": "Wolverine",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
         "picture": "https://i.pinimg.com/736x/62/cd/66/62cd665950ec45d7a522f1e71e294c77.jpg",
-    "squarePic": "https://static.wikia.nocookie.net/featteca/images/8/82/Wolverine_PNG1.png/revision/latest/scale-to-width-down/477?cb=20220219192157&path-prefix=es",
+    "squarePic": "https://lumiere-a.akamaihd.net/v1/images/the_wolverine_-_feature_71479c84.png?region=193,0,614,614",
         "name": "Wolverine"
     },
     {
         "id": "Loki",
         "about": "Ipsum duis incididunt ullamco tempor. Amet incididunt Lorem consequat labore culpa. Pariatur amet veniam reprehenderit sunt laborum excepteur. Labore eu ut ut Lorem labore aliqua quis ex elit nulla in incididunt commodo aliquip. Velit excepteur eiusmod Lorem esse officia. Irure aliquip Lorem fugiat voluptate dolor duis consectetur aliquip pariatur tempor reprehenderit deserunt.",
         "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3acc143-332f-43c9-8707-d61106b45a55/dehc4sb-9e2e0504-9f7d-4e8d-80f6-8cf4e6ac4f3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzYWNjMTQzLTMzMmYtNDNjOS04NzA3LWQ2MTEwNmI0NWE1NVwvZGVoYzRzYi05ZTJlMDUwNC05ZjdkLTRlOGQtODBmNi04Y2Y0ZTZhYzRmM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rf17brC9nEkNZAxCCTUdZ22lX3Fn6xjJBa4EZi_o6OE",
-    "squarePic": "https://static.wikia.nocookie.net/marveldatabase/images/a/a2/Loki_Laufeyson_%28Earth-616%29_from_Thor_Vol_3_12_0001.jpg/revision/latest?cb=20201011071529",
+    "squarePic": "https://estaticos.elcolombiano.com/binrepository/580x860/0c168/580d365/none/11101/LTKV/loki-digital-keyart-teaser-v4-lg_37889691_20210608200446.jpg",
         "name": "Loki"
     },
     {
         "id": "Pantera Negra",
         "about": "Mollit officia ad excepteur anim proident incididunt eiusmod mollit consectetur id sit velit. Laborum ut magna officia qui laboris eiusmod do culpa. Culpa dolor officia velit cillum culpa deserunt cupidatat cillum ipsum laborum.",
         "picture": "https://external-preview.redd.it/rZ2htb5Cp3IY04dbfZG-U3ZRmehbz7dpavZbq_4vEFk.jpg?auto=webp&s=a9f91f03477a18221d50722139dabb0058909cf0",
-    "squarePic": "https://i.pinimg.com/1200x/fa/4b/98/fa4b9861c9bd99c754d3487b3b4637ce.jpg",
+    "squarePic": "https://www.akiracomics.com/imagenes/porreferencia?identidad=50f891c9-b7db-4e05-b9a6-996895a372df&referencia=&ancho=&alto=",
         "name": "Pantera Negra"
     },
     {
         "id": "Rocket Raccoon",
         "about": "Laboris est duis eiusmod adipisicing cillum ut sit ea Lorem non laboris quis Lorem. Est culpa esse aliqua non labore dolor esse labore nulla mollit. Nostrud amet est quis adipisicing dolor. Labore veniam elit veniam non ad ex consequat excepteur eiusmod. Minim cupidatat velit Lorem culpa quis consequat incididunt qui amet incididunt pariatur ex aliquip aliqua. Magna ex elit in aliquip minim eu ut ut fugiat ullamco deserunt adipisicing cillum.",
         "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa79357-9476-4c1d-b9a8-6e881f2449d3/dfvnkg7-f7c21dda-4dfd-4c0f-ab8a-7ad4fb54c809.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYTc5MzU3LTk0NzYtNGMxZC1iOWE4LTZlODgxZjI0NDlkM1wvZGZ2bmtnNy1mN2MyMWRkYS00ZGZkLTRjMGYtYWI4YS03YWQ0ZmI1NGM4MDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlGN9_DYh1pAC999fkUXdZB1XeDc3irh3GIbWN1UZ0E",
-    "squarePic": "https://www.geekmi.news/__export/1682885713364/sites/debate/img/2023/04/30/axadir_un_txtulo_x23x.jpg_1902800913.jpg",
+    "squarePic": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/guardianes-galaxia-roket-sin-piel-miedo/137618718-1-esl-ES/!Rocket-Raccoon-sin-piel-da-aun-mas-mal-rollo.jpg",
         "name": "Rocket Raccoon"
     },
     {
         "id": "Duende Verde",
         "about": "Ipsum tempor sunt Lorem est. Fugiat nisi velit veniam labore et ullamco minim adipisicing do culpa. Cillum voluptate reprehenderit aute consectetur.",
         "picture": "https://pm1.aminoapps.com/6287/a6d14d4645386c4dff6eefb5663bd84cc03311ff_00.jpg",
-    "squarePic": "https://e7.pngegg.com/pngimages/837/430/png-clipart-spider-man-green-goblin-supervillain-iron-man-green-goblin-superhero-villain-thumbnail.png",
+    "squarePic": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/willem-dafoe-como-duende-verde-spider-man-no-way-home-2537203.jpg?tf=1200x",
         "name": "Duende Verde"
     },
     {
@@ -164,9 +164,9 @@ const personajes1 = [
         "name": "Victor Stone"
     },
     {
-        "id": "Pinguino",
+        "id": "Acertijo",
         "about": "Deserunt voluptate aliquip ex dolor Lorem exercitation aliqua nisi fugiat aliquip sunt non. Eu cillum enim velit exercitation officia proident exercitation ipsum exercitation Lorem nulla do. Minim sint dolor nostrud ipsum laborum. Velit ea ad ad consectetur nisi Lorem laborum officia esse. Do eu incididunt eiusmod voluptate excepteur consequat ipsum ad. Quis veniam exercitation eiusmod amet non non eu aliquip quis ea. Tempor deserunt nulla adipisicing qui fugiat ipsum labore duis et ea consectetur.",
-        "picture": "https://www.akiracomics.com/imagenes/poridentidad?identidad=c75e0021-577d-4de6-ae37-85561adacba0&ancho=850&alto=",
+        "picture": "https://pm1.aminoapps.com/6313/89e05ee3f6b541e1e23f8a9cba5b823d2fad9c8d_00.jpg",
     "squarePic": "https://i.pinimg.com/originals/c8/4c/5a/c84c5af2e49326d2fbb562b29efcbeb7.png",
         "name": "Acertijo"
     },
@@ -215,31 +215,29 @@ const personajes1 = [
 
 function crearEstructuraHTML(personaje) {
     const divHola = document.createElement('div');
-    divHola.className = 'hola';
+    divHola.classList.add('personaje');
 
     const divTitulo1 = document.createElement('div');
-    divTitulo1.className = 'titulo1';
+    divTitulo1.classList.add('div-titulo1');
 
     const img = document.createElement('img');
     img.src = personaje.picture;
-    img.id = personaje.id;
+    img.alt = personaje.name;
 
     const br = document.createElement('br');
 
     const button = document.createElement('button');
-    button.id = 'extra';
-    button.className = 'ver';
-    button.textContent = 'Obtener';
+    button.textContent = 'Ver';
+    button.classList.add('ver');
 
     const divModal = document.createElement('div');
-    divModal.id = 'myModal';
-    divModal.className = 'modalContainer';
+    divModal.classList.add('modalContainer');
 
     const divModalContent = document.createElement('div');
-    divModalContent.className = 'modal-content';
+    divModalContent.classList.add('modal-content');
 
     const spanClose = document.createElement('span');
-    spanClose.className = 'close';
+    spanClose.classList.add('close');
     spanClose.textContent = 'X';
 
     const h2 = document.createElement('h2');
@@ -248,89 +246,58 @@ function crearEstructuraHTML(personaje) {
     const p = document.createElement('p');
     p.textContent = personaje.about;
 
-    // Adjuntar elementos al árbol DOM
-    divModalContent.appendChild(spanClose);
-    divModalContent.appendChild(h2);
-    divModalContent.appendChild(p);
-
-    divModal.appendChild(divModalContent);
+    const imgSquare = document.createElement('img');
+    imgSquare.src = personaje.squarePic;
+    imgSquare.alt = personaje.name;
 
     divTitulo1.appendChild(img);
     divTitulo1.appendChild(br);
     divTitulo1.appendChild(button);
-    divTitulo1.appendChild(divModal);
 
-    divHola.appendChild(divTitulo1);
-
-    return divHola;
-}
-
-// Obtener el contenedor donde se agregarán los elementos
-const contenedor = document.getElementById('contenedor');
-
-// Crear y agregar cada estructura HTML al contenedor
-personajes.forEach(personaje => {
-    const estructuraHTML = crearEstructuraHTML(personaje);
-    contenedor.appendChild(estructuraHTML);
-});
-
-function crearEstructuraHTML(personaje) {
-    const divHola = document.createElement('div');
-    divHola.className = 'hola';
-
-    const divTitulo1 = document.createElement('div');
-    divTitulo1.className = 'titulo1';
-
-    const img = document.createElement('img');
-    img.src = personaje.picture;
-    img.id = personaje.id;
-
-    const br = document.createElement('br');
-
-    const button = document.createElement('button');
-    button.id = 'extra';
-    button.className = 'ver';
-    button.textContent = 'Obtener';
-
-    const divModal = document.createElement('div');
-    divModal.id = 'myModal';
-    divModal.className = 'modalContainer';
-
-    const divModalContent = document.createElement('div');
-    divModalContent.className = 'modal-content';
-
-    const spanClose = document.createElement('span');
-    spanClose.className = 'close';
-    spanClose.textContent = 'X';
-
-    const h2 = document.createElement('h2');
-    h2.textContent = personaje.name;
-
-    const p = document.createElement('p');
-    p.textContent = personaje.about;
-
-    // Adjuntar elementos al árbol DOM
     divModalContent.appendChild(spanClose);
     divModalContent.appendChild(h2);
     divModalContent.appendChild(p);
+    divModalContent.appendChild(imgSquare);
 
     divModal.appendChild(divModalContent);
 
-    divTitulo1.appendChild(img);
-    divTitulo1.appendChild(br);
-    divTitulo1.appendChild(button);
-    divTitulo1.appendChild(divModal);
-
     divHola.appendChild(divTitulo1);
+    divHola.appendChild(divModal);
 
     return divHola;
 }
 
-// Obtener el contenedor donde se agregarán los elementos
-const contenedor1 = document.getElementById('contenedor1');
+function cargarPersonajes(personajes) {
+    const contenedor = document.getElementById('contenedor');
 
-// Crear y agregar cada estructura HTML al contenedor
-personajes1.forEach(personaje => {
-    const estructuraHTML = crearEstructuraHTML(personaje);
-    contenedor1.appendChild(estructuraHTML);
-});
+    personajes.forEach(personaje => {
+        const elemento = crearEstructuraHTML(personaje);
+        contenedor.appendChild(elemento);
+
+        // Event listener for the button to show modal
+        const button = elemento.querySelector('.ver');
+        button.addEventListener('click', () => {
+            const modal = elemento.querySelector('.modalContainer');
+            modal.style.display = 'block';
+        });
+
+        // Event listener for closing modal
+        const spanClose = elemento.querySelector('.close');
+        spanClose.addEventListener('click', () => {
+            const modal = elemento.querySelector('.modalContainer');
+            modal.style.display = 'none';
+        });
+
+        // Event listener to close modal when clicking outside of it
+        window.addEventListener('click', (event) => {
+            const modal = elemento.querySelector('.modalContainer');
+            if (event.target === modal) {
+                modal.style.display = 'none';
+            }
+        });
+    });
+}
+
+// Call the function to load characters from both arrays
+cargarPersonajes(personajes);
+cargarPersonajes(personajes1);
