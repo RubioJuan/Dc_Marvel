@@ -29,15 +29,20 @@ body{
     flex-wrap: wrap; /* Para que las tarjetas se envuelvan si no hay suficiente espacio */
     justify-content: space-around; /* Para distribuir el espacio disponible entre las tarjetas */
   }
+  #contenedor1 {
+    display: flex;
+    flex-wrap: wrap; /* Para que las tarjetas se envuelvan si no hay suficiente espacio */
+    justify-content: space-around; /* Para distribuir el espacio disponible entre las tarjetas */
+  }
   
   /* Estilos para cada tarjeta */
   .hola {
     width: 300px; /* Ancho de cada tarjeta */
     margin: 20px; /* Espacio entre tarjetas */
     padding: 20px;
+    height: auto;
     background-color: #dbbbbb;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
   
   /* Estilos para la imagen */
@@ -53,11 +58,12 @@ body{
     margin: 0 auto; 
     margin-top: 10px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #356597;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-size: 15px;
   }
   
   /* Estilos para el modal */
@@ -77,5 +83,3 @@ body{
     cursor: pointer;
     font-size: 20px;
   }
-  /* Estilos para los contenedores de Marvel y DC */
-
