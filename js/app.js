@@ -104,12 +104,9 @@ const personajes = [
         "name": "Ant-Man"
     },
 
+]
 
-
-
-
-
-
+const personajes1 = [
     {
         "id": "Batman",
         "about": "Id aute in dolore dolor in incididunt dolore duis do mollit officia. Ullamco pariatur eiusmod laborum culpa quis non occaecat ad cillum dolore labore aliqua. Elit magna commodo aliquip laborum aliqua duis.",
@@ -216,227 +213,63 @@ const personajes = [
     }
 ]
 
-window.onload = hero1
-function hero1() {
-    let spiderman = document.getElementById('spiderman')
-    let galery = personajes[0].picture
-    spiderman.src= galery
+function crearEstructuraHTML(personaje) {
+    const divHola = document.createElement('div');
+    divHola.className = 'hola';
 
-    let iroman = document.getElementById('iroman')
-    let galery1 = personajes[1].picture
-    iroman.src= galery1
+    const divTitulo1 = document.createElement('div');
+    divTitulo1.className = 'titulo1';
 
-    let capitanAmerica = document.getElementById('capitanAmerica')
-    let galery2 = personajes[2].picture
-    capitanAmerica.src= galery2
+    const img = document.createElement('img');
+    img.src = personaje.picture;
+    img.id = personaje.id;
 
-    let thor = document.getElementById('thor')
-    let galery3 = personajes[3].picture
-    thor.src =galery3
+    const br = document.createElement('br');
 
-    let doctorStranger = document.getElementById('doctorStranger')
-    let galery4 = personajes[4].picture
-    doctorStranger.src =galery4
+    const button = document.createElement('button');
+    button.id = 'extra';
+    button.className = 'ver';
+    button.textContent = 'Obtener';
 
-    let hulk = document.getElementById('hulk')
-    let galery5 = personajes[5].picture
-    hulk.src =galery5
+    const divModal = document.createElement('div');
+    divModal.id = 'myModal';
+    divModal.className = 'modalContainer';
 
-    let deadpool = document.getElementById('deadpool')
-    let galery6 = personajes[6].picture
-    deadpool.src =galery6
+    const divModalContent = document.createElement('div');
+    divModalContent.className = 'modal-content';
 
-    let wolverine = document.getElementById('wolverine')
-    let galery7 =personajes[7].picture
-    wolverine.src =galery7
+    const spanClose = document.createElement('span');
+    spanClose.className = 'close';
+    spanClose.textContent = 'X';
 
-    let loki = document.getElementById('loki')
-    let galery8 =personajes[8].picture
-    loki.src =galery8
+    const h2 = document.createElement('h2');
+    h2.textContent = personaje.name;
 
-    let panteraNegra =document.getElementById('panteraNegra')
-    let galery9 =personajes[9].picture
-    panteraNegra.src=galery9
+    const p = document.createElement('p');
+    p.textContent = personaje.about;
 
-    let RocketRaccoon = document.getElementById('RocketRaccoon')
-    let galery10 =personajes[10].picture
-    RocketRaccoon.src=galery10
+    // Adjuntar elementos al árbol DOM
+    divModalContent.appendChild(spanClose);
+    divModalContent.appendChild(h2);
+    divModalContent.appendChild(p);
 
-    let duendeVerde =document.getElementById('duendeVerde')
-    let galery11 =personajes[11].picture
-    duendeVerde.src =galery11
+    divModal.appendChild(divModalContent);
 
-    let doctorOptopus =document.getElementById('doctorOptopus')
-    let galery12 =personajes[12].picture
-    doctorOptopus.src=galery12
+    divTitulo1.appendChild(img);
+    divTitulo1.appendChild(br);
+    divTitulo1.appendChild(button);
+    divTitulo1.appendChild(divModal);
 
-    let Mysterio =document.getElementById('Mysterio')
-    let galery13 =personajes[13].picture
-    Mysterio.src=galery13
+    divHola.appendChild(divTitulo1);
 
-    let atman =document.getElementById('atman')
-    let galery14=personajes[14].picture
-    atman.src=galery14
-
-    let Batman=document.getElementById('Batman')
-    let galery15=personajes[15].picture
-    Batman.src=galery15
-
-    let Superman=document.getElementById('Superman')
-    let galery16=personajes[16].picture
-    Superman.src=galery16
-
-    let Arrow=document.getElementById('Arrow')
-    let galery17=personajes[17].picture
-    Arrow.src=galery17
-
-    let SaintWalker=document.getElementById('SaintWalker')
-    let galery18=personajes[18].picture
-    SaintWalker.src=galery18
-
-    let LinternaVerde =document.getElementById('LinternaVerde')
-    let galery19=personajes[19].picture
-    LinternaVerde.src=galery19
-
-    let BlackManta=document.getElementById('BlackManta')
-    let galery20=personajes[20].picture
-    BlackManta.src=galery20
-
-    let RoyHarper=document.getElementById('RoyHarper')
-    let galery21=personajes[21].picture
-    RoyHarper.src=galery21
-
-    let VictorStone=document.getElementById('VictorStone')
-    let galery22=personajes[22].picture
-    VictorStone.src=galery22
-
-    let acertijo=document.getElementById('acertijo')
-    let galery23=personajes[23].picture
-    acertijo.src=galery23
-
-    let joker=document.getElementById('joker')
-    let galery24=personajes[24].picture
-    joker.src=galery24
-
-    let batmanRie=document.getElementById('batmanRie')
-    let galery25=personajes[25].picture
-    batmanRie.src=galery25
-
-    let queen=document.getElementById('queen')
-    let galery26=personajes[26].picture
-    queen.src=galery26
-
-    let Flash=document.getElementById('Flash')
-    let galery27=personajes[27].picture
-    Flash.src=galery27
-
-    let bane=document.getElementById('bane')
-    let galery28=personajes[28].picture
-    bane.src=galery28
-
-    let mujerMaravilla=document.getElementById('mujerMaravilla')
-    let galery29=personajes[29].picture
-    mujerMaravilla.src=galery29
+    return divHola;
 }
 
-// Inicio de las pestañas 
-if(document.getElementById("extra")){
-    let modal = document.getElementById("myModal");
-    let button = document.getElementById("extra");
-    let span = document.getElementsByClassName("close")[0];
-    let body = document.getElementsByTagName("body");
+// Obtener el contenedor donde se agregarán los elementos
+const contenedor = document.getElementById('contenedor');
 
-    button.onclick= function(){
-        modal.style.display= "block";
-        body.style.position = "static";
-        body.style.height = "100%";
-        body.style.oveflow = "hidden";
-    }
-   
-    span.onclick = function(){
-        modal.style.display = "none";
-        body.style.position = "inherit";
-        body.style.height = "auto";
-        body.style.oveflow = "visible";
-    }
-}
-if(document.getElementById("extra1")){
-    let modal = document.getElementById("myModal1");
-    let button = document.getElementById("extra1");
-    let span = document.getElementsByClassName("close1")[0];
-    let body = document.getElementsByTagName("body");
-
-    button.onclick= function(){
-        modal.style.display= "block";
-        body.style.position = "static";
-        body.style.height = "100%";
-        body.style.oveflow = "hidden";
-    }
-   
-    span.onclick = function(){
-        modal.style.display = "none";
-        body.style.position = "inherit";
-        body.style.height = "auto";
-        body.style.oveflow = "visible";
-    }
-}
-if(document.getElementById("extra2")){
-    let modal = document.getElementById("myModal2");
-    let button = document.getElementById("extra2");
-    let span = document.getElementsByClassName("close2")[0];
-    let body = document.getElementsByTagName("body");
-
-    button.onclick= function(){
-        modal.style.display= "block";
-        body.style.position = "static";
-        body.style.height = "100%";
-        body.style.oveflow = "hidden";
-    }
-   
-    span.onclick = function(){
-        modal.style.display = "none";
-        body.style.position = "inherit";
-        body.style.height = "auto";
-        body.style.oveflow = "visible";
-    }
-}
-if(document.getElementById("extra3")){
-    let modal = document.getElementById("myModal3");
-    let button = document.getElementById("extra3");
-    let span = document.getElementsByClassName("close3")[0];
-    let body = document.getElementsByTagName("body");
-
-    button.onclick= function(){
-        modal.style.display= "block";
-        body.style.position = "static";
-        body.style.height = "100%";
-        body.style.oveflow = "hidden";
-    }
-   
-    span.onclick = function(){
-        modal.style.display = "none";
-        body.style.position = "inherit";
-        body.style.height = "auto";
-        body.style.oveflow = "visible";
-    }
-}
-if(document.getElementById("extra4")){
-    let modal = document.getElementById("myModal4");
-    let button = document.getElementById("extra4");
-    let span = document.getElementsByClassName("close4")[0];
-    let body = document.getElementsByTagName("body");
-
-    button.onclick= function(){
-        modal.style.display= "block";
-        body.style.position = "static";
-        body.style.height = "100%";
-        body.style.oveflow = "hidden";
-    }
-   
-    span.onclick = function(){
-        modal.style.display = "none";
-        body.style.position = "inherit";
-        body.style.height = "auto";
-        body.style.oveflow = "visible";
-    }
-}
+// Crear y agregar cada estructura HTML al contenedor
+personajes.forEach(personaje => {
+    const estructuraHTML = crearEstructuraHTML(personaje);
+    contenedor.appendChild(estructuraHTML);
+});
