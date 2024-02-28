@@ -339,6 +339,7 @@ function hero1() {
     mujerMaravilla.src=galery29
 }
 
+// Inicio de las pestañas 
 if(document.getElementById("extra")){
     let modal = document.getElementById("myModal");
     let button = document.getElementById("extra");
@@ -351,8 +352,88 @@ if(document.getElementById("extra")){
         body.style.height = "100%";
         body.style.oveflow = "hidden";
     }
+   
+    span.onclick = function(){
+        modal.style.display = "none";
+        body.style.position = "inherit";
+        body.style.height = "auto";
+        body.style.oveflow = "visible";
+    }
+}
+if(document.getElementById("extra1")){
+    let modal = document.getElementById("myModal1");
+    let button = document.getElementById("extra1");
+    let span = document.getElementsByClassName("close1")[0];
+    let body = document.getElementsByTagName("body");
 
-    span.onclick = fuction();{
+    button.onclick= function(){
+        modal.style.display= "block";
+        body.style.position = "static";
+        body.style.height = "100%";
+        body.style.oveflow = "hidden";
+    }
+   
+    span.onclick = function(){
+        modal.style.display = "none";
+        body.style.position = "inherit";
+        body.style.height = "auto";
+        body.style.oveflow = "visible";
+    }
+}
+if(document.getElementById("extra2")){
+    let modal = document.getElementById("myModal2");
+    let button = document.getElementById("extra2");
+    let span = document.getElementsByClassName("close2")[0];
+    let body = document.getElementsByTagName("body");
+
+    button.onclick= function(){
+        modal.style.display= "block";
+        body.style.position = "static";
+        body.style.height = "100%";
+        body.style.oveflow = "hidden";
+    }
+   
+    span.onclick = function(){
+        modal.style.display = "none";
+        body.style.position = "inherit";
+        body.style.height = "auto";
+        body.style.oveflow = "visible";
+    }
+}
+if(document.getElementById("extra3")){
+    let modal = document.getElementById("myModal3");
+    let button = document.getElementById("extra3");
+    let span = document.getElementsByClassName("close3")[0];
+    let body = document.getElementsByTagName("body");
+
+    button.onclick= function(){
+        modal.style.display= "block";
+        body.style.position = "static";
+        body.style.height = "100%";
+        body.style.oveflow = "hidden";
+    }
+   
+    span.onclick = function(){
+        modal.style.display = "none";
+        body.style.position = "inherit";
+        body.style.height = "auto";
+        body.style.oveflow = "visible";
+    }
+}
+if(document.getElementById("extra4")){
+    let modal = document.getElementById("myModal4");
+    let button = document.getElementById("extra4");
+    let span = document.getElementsByClassName("close4")[0];
+    let body = document.getElementsByTagName("body");
+
+    button.onclick= function(){
+        modal.style.display= "block";
+        body.style.position = "static";
+        body.style.height = "100%";
+        body.style.oveflow = "hidden";
+    }
+   
+    span.onclick = function(){
         modal.style.display = "none";
         body.style.position = "inherit";
         body.style.height = "auto";
