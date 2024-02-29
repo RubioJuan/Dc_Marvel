@@ -3,7 +3,7 @@ const personajes = [
         "id": "Spiderman",
         "about": "Peter Parker es un adolescente como otro cualquiera. Vive con su tía May y su tío Ben, va al instituto y le encantan las clases de ciencias. Sin embargo, todo cambia el día que, durante una excursión del insituto a un laboratorio, ¡Peter es mordido por una araña radioactiva y se convierte en Spider-Man!",
         "picture": "https://static.tvtropes.org/pmwiki/pub/images/amazing_spider_man_vol_2_50_textless.png",
-    "squarePic": "https://media-assets.wired.it/photos/64777453819a9a3fbb232baa/master/pass/Spider-Man.jpg",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIqyO3-gf9lgEeyBOn-Z8hw5mhm_ZEDPcAA&usqp=CAU",
         "name": "Spiderman"
     },
     {
@@ -16,70 +16,70 @@ const personajes = [
     {
         "id": "Capitan America",
         "about": "Steve Rogers nació durante la Depresión y creció, convirtiéndose en un joven débil en una familia pobre. Su padre murió cuando él era un niño; su madre, durante la adolescencia de Steve. Horrorizado ante un noticiario que mostraba a los nazis en Europa, Rogers intentó alistarse en el ejército.",
-        "picture": "https://www.akiracomics.com/imagenes/poridentidad?identidad=c1c19372-97ca-4fef-8d35-c9cb19fbcc01&ancho=850&alto=",
-    "squarePic": "https://www.shutterstock.com/image-vector/captain-america-logo-art-design-600nw-2272933579.jpg",
+        "picture": "https://i.pinimg.com/474x/bd/8e/f1/bd8ef1bdc2873992f3306b069de7c5d6.jpg",
+    "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/bb/ae/bbae5fdf15b20014bb7b9d6d2495ee11.jpg",
         "name": "Capitan America"
     },
     {
         "id": "Thor",
         "about": "Thor es el hijo de Odín, señor de los dioses de Asgard, y de Jord, que también es conocida como Gea, la más anciana diosa de la Tierra. Odín quería ser padre de un hijo cuyo poder derivase de la Tierra y de Asgard, así que se apareó con Jord. Odín creó una cueva en Noruega donde Jord dio a luz a Thor.",
         "picture": "https://pm1.aminoapps.com/6857/2a033ee70f8ad81c35510cb13a546a196175597dv2_hq.jpg",
-    "squarePic": "https://www.latercera.com/resizer/lnL46pGRKDktOfOU5odCfEKuOpk=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/4YMBDPAUPFAXHC6ZU5EW4CGGLI.jpg",
+    "squarePic": "https://cdn.shopify.com/s/files/1/0052/3904/6179/files/wsonnwald_00886_marvel_thor_977db1b4-2044-4800-90b6-7ea623854e88_480x480.png?v=1696232273",
         "name": "Thor"
     },
     {
         "id": "Doctor Strange",
         "about": "Alias Doctor Strange, fue el Hechicero Supremo de la Tierra-616. Strange fue una vez un brillante pero arrogante neurocirujano, hasta que un accidente de coche le dejó lisiadas las manos. Cuando la medicina moderna le falló, se embarcó en un viaje a Kamar-Taj en el Tíbet, donde fue entrenado por el Ancestral.",
         "picture": "https://i.pinimg.com/564x/02/c5/f0/02c5f06bd86d14be48e896a88e02a6b8.jpg",
-    "squarePic": "https://www.clarin.com/img/2022/05/05/zrOSKM_Xk_720x0__1.jpg",
+    "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/41/51/4151d63228ed9155c98dbfd7026451fc.jpg",
         "name": "Doctor Strange"
     }, {
         "id": "Hulk",
         "about": "Después de una exposición accidental a los rayos gamma durante la detonación de una bomba experimental, Banner se transforma físicamente en Hulk cuando está sometido a estrés emocional, a su voluntad o en contra de ella, lo que a menudo lleva a destrozos y conflictos que complican la vida civil de Banner.",
         "picture": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/3-the-hulk-wall-art-tim-hill.jpg",
-    "squarePic": "https://hips.hearstapps.com/hmg-prod/images/el-increible-hulk-1554403044.jpg?crop=1xw:0.8888888888888888xh;center,top&resize=1200:*",
+    "squarePic": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
         "name": "Hulk"
     },
     {
         "id": "Deadpool",
         "about": "Apareció por primera vez en New Mutants (vol. 1) #98 (1991). Como un mercenario mentalmente inestable y desfigurado, Deadpool apareció originalmente como un villano en el cómic New Mutants, y más tarde en ediciones de X-Force.",
         "picture": "https://i.pinimg.com/736x/77/96/50/7796507879438bd7e0e7d978e3198981.jpg",
-    "squarePic": "https://cdn.atomix.vg/wp-content/uploads/2023/10/deadpool.jpg",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0c_l8hv3bhA6I6DFFx76yaiCdQ-Ka9SlpCq6Fhq-V_clCG0ltRyyWKlgpQY68HM338ro&usqp=CAU",
         "name": "Deadpool"
     },
     {
         "id": "Wolverine",
         "about": "Es un mutante que posee sentidos afinados a los animales, capacidades físicas mejoradas, poderosa capacidad de regeneración conocida como un factor de curación, y tres garras retráctiles en cada mano. Wolverine ha sido representado de diversas formas como miembro de los X-Men, Alpha Flight, Fuerza-X y Los Vengadores.",
         "picture": "https://i.pinimg.com/736x/62/cd/66/62cd665950ec45d7a522f1e71e294c77.jpg",
-    "squarePic": "https://lumiere-a.akamaihd.net/v1/images/the_wolverine_-_feature_71479c84.png?region=193,0,614,614",
+    "squarePic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fc0fc8-e756-4cf0-952f-0d17a048b2f5/d89cihf-c5cb49ab-09c1-4ae0-976d-2b25336743b2.jpg/v1/fit/w_375,h_580,q_70,strp/wolverine_by_wizyakuza_d89cihf-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTI4IiwicGF0aCI6IlwvZlwvODdmYzBmYzgtZTc1Ni00Y2YwLTk1MmYtMGQxN2EwNDhiMmY1XC9kODljaWhmLWM1Y2I0OWFiLTA5YzEtNGFlMC05NzZkLTJiMjUzMzY3NDNiMi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.NN5Z56TT7Oa-lSDAOf6NE49kg1y9a_r10Vbe3S_7s7k",
         "name": "Wolverine"
     },
     {
         "id": "Loki",
         "about": "Es hijo de los gigantes Farbauti y Laufey y tiene dos hermanos, Helblindi y Býleistr, de los que poco se sabe. En las eddas es descrito como el «origen de todo fraude» y se mezcló con los dioses libremente, llegando a ser considerado por Odín como su hermano de sangre hasta el asesinato de Balder.",
-        "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3acc143-332f-43c9-8707-d61106b45a55/dehc4sb-9e2e0504-9f7d-4e8d-80f6-8cf4e6ac4f3f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzYWNjMTQzLTMzMmYtNDNjOS04NzA3LWQ2MTEwNmI0NWE1NVwvZGVoYzRzYi05ZTJlMDUwNC05ZjdkLTRlOGQtODBmNi04Y2Y0ZTZhYzRmM2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rf17brC9nEkNZAxCCTUdZ22lX3Fn6xjJBa4EZi_o6OE",
-    "squarePic": "https://estaticos.elcolombiano.com/binrepository/580x860/0c168/580d365/none/11101/LTKV/loki-digital-keyart-teaser-v4-lg_37889691_20210608200446.jpg",
+        "picture": "https://thecomicverse.com.co/wp-content/uploads/2021/07/Loki1.png",
+    "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/fe/b6/feb632a376eba45f5dcf484e72d0e92d.jpg",
         "name": "Loki"
     },
     {
         "id": "Pantera Negra",
         "about": "Efectivamente, el hombre que viste y calza el poder de la pantera es T'Challa, hijo de T'Chakay rey por derecho de la imaginaria Wakanda, un país que vive ajeno al resto del mundo como modo de autodefensa. La causa es el Vibranium, un metal único capaz de absorber todo tipo de vibraciones.",
         "picture": "https://external-preview.redd.it/rZ2htb5Cp3IY04dbfZG-U3ZRmehbz7dpavZbq_4vEFk.jpg?auto=webp&s=a9f91f03477a18221d50722139dabb0058909cf0",
-    "squarePic": "https://www.akiracomics.com/imagenes/porreferencia?identidad=50f891c9-b7db-4e05-b9a6-996895a372df&referencia=&ancho=&alto=",
+    "squarePic": "https://play-lh.googleusercontent.com/vUG9Bl5TKfOamKsXokcrZMIJgOevL0GdYqFgQE7cFkT8umO-2018cKJVXLSHadXoRoJZ=w240-h480-rw",
         "name": "Pantera Negra"
     },
     {
         "id": "Rocket Raccoon",
         "about": "Rocket es representado como un mercenario de mal genio y experto en armas que, junto con su compañero Groot, se une a los Guardianes de la Galaxia en su batalla contra Ronan el Acusador​ y más tarde luchar contra una facción rebelde de Devastadores y el celestial Ego.",
         "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa79357-9476-4c1d-b9a8-6e881f2449d3/dfvnkg7-f7c21dda-4dfd-4c0f-ab8a-7ad4fb54c809.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYTc5MzU3LTk0NzYtNGMxZC1iOWE4LTZlODgxZjI0NDlkM1wvZGZ2bmtnNy1mN2MyMWRkYS00ZGZkLTRjMGYtYWI4YS03YWQ0ZmI1NGM4MDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KlGN9_DYh1pAC999fkUXdZB1XeDc3irh3GIbWN1UZ0E",
-    "squarePic": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/noticias-cine/guardianes-galaxia-roket-sin-piel-miedo/137618718-1-esl-ES/!Rocket-Raccoon-sin-piel-da-aun-mas-mal-rollo.jpg",
+    "squarePic": "https://upload.wikimedia.org/wikipedia/en/1/1b/Rocketraccoon.png",
         "name": "Rocket Raccoon"
     },
     {
         "id": "Duende Verde",
         "about": "Es un supervillano ficticio de Marvel Comics y el principal antagonista de la primera película de Spider-Man. Es el fundador y director general de Industrias Oscorp y el padre de Harry Osborn.",
         "picture": "https://pm1.aminoapps.com/6287/a6d14d4645386c4dff6eefb5663bd84cc03311ff_00.jpg",
-    "squarePic": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/11/willem-dafoe-como-duende-verde-spider-man-no-way-home-2537203.jpg?tf=1200x",
+    "squarePic": "https://w7.pngwing.com/pngs/837/430/png-transparent-spider-man-green-goblin-supervillain-iron-man-green-goblin-superhero-villain-fictional-character-thumbnail.png",
         "name": "Duende Verde"
     },
     {
@@ -100,7 +100,7 @@ const personajes = [
         "id": "Ant-Man",
         "about": "El Hombre Hormiga original fue el doctor Henry 'Hank' Pym, experto en biofísica y miembro del Centro de Operaciones de Seguridad que decidió convertirse en un superhéroe después de la muerte de su primera esposa, Maria Trovaya, quien había sido disidente política en su natal Hungría.",
         "picture": "https://i.pinimg.com/474x/da/b9/13/dab913dacebd200f3d1ef48029259740.jpg",
-    "squarePic": "https://elcomercio.pe/resizer/_RJiWV7ZJn_-eYzCsP4DUFnyszQ=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WLTQCYI4FVF2TOIMGYXTIVDRSU.jpg",
+    "squarePic": "https://images.cdn3.buscalibre.com/fit-in/360x360/c6/29/c629df43ded4f4f9f9e1579154236910.jpg",
         "name": "Ant-Man"
     },
 
@@ -118,7 +118,7 @@ const personajes1 = [
         "id": "Superman",
         "about": "Nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. Cuando era bebé, sus padres, el científico Jor-El y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural.",
         "picture": "https://i.pinimg.com/474x/db/15/ba/db15bac66d1fb1794d53eaa90e5af7db.jpg",
-    "squarePic": "https://hips.hearstapps.com/hmg-prod/images/henry-cavill-superman-1536761926.jpg?crop=0.49925925925925924xw:1xh;center,top&resize=640:*",
+    "squarePic": "https://lh3.googleusercontent.com/proxy/KwmmT3pOaAil5uBEZIUJhGHgl5Vt4MpnJUW6wRteW4AnbSu0mRH8fPJCgtKWEO_9CKH0PD3Lwj_LzDzDDxFaAh-hLiJ3xg",
         "name": "Superman"
     },
     {
@@ -160,21 +160,21 @@ const personajes1 = [
         "id": "Victor Stone",
         "about": "Victor Stone nació el 29 de junio de 1994 por Silas Stone y Elinore Stone. Durante su tiempo en la Universidad de Ciudad Gótica, Stone aprendió mucho sobre computadoras, y a menudo ayudaba a sus amigos a mejorar sus notas. Stone también se convirtió en el capitán del equipo de fútbol de su equipo.",
         "picture": "https://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/979895588_orig.jpg",
-    "squarePic": "https://www.looper.com/img/gallery/the-untold-truth-of-the-dceus-cyborg/intro-1646948545.jpg",
+    "squarePic": "https://i.pinimg.com/236x/2f/8d/ae/2f8daeceb8fee1eaa9c685c5719def9f.jpg",
         "name": "Victor Stone"
     },
     {
         "id": "Acertijo",
         "about": "Edward Nashton, conocido públicamente como El Acertijo, es un enigmático asesino en serie y terrorista que busca atrapar a la élite de Gotham y desenmascarar públicamente a los más oscuros de la ciudad con una serie de verdades de rompecabezas y dispositivos tortuosos.",
         "picture": "https://pm1.aminoapps.com/6313/89e05ee3f6b541e1e23f8a9cba5b823d2fad9c8d_00.jpg",
-    "squarePic": "https://i.pinimg.com/originals/c8/4c/5a/c84c5af2e49326d2fbb562b29efcbeb7.png",
+    "squarePic": "https://pm1.aminoapps.com/6179/345613d86a7e92854b8d9903da6a5e699d16373b_00.jpg",
         "name": "Acertijo"
     },
     {
         "id": "Joker",
         "about": "Se le asocia con una personalidad psicópata con un humor sádico y retorcido, lo que le ha llevado a ser catalogado como la antítesis de Batman",
         "picture": "https://i.ebayimg.com/images/g/FbEAAOSw9FlfvMZf/s-l1200.webp",
-    "squarePic": "https://www.zonanegativa.com/imagenes/2022/11/destacada-deadly.jpg",
+    "squarePic": "https://upload.wikimedia.org/wikipedia/en/5/5f/Batman_Three_Jokers.jpg",
         "name": "Joker"
     },
     {
@@ -188,27 +188,27 @@ const personajes1 = [
         "id": "Harley quinn",
         "about": "La doctora Harleen Frances Quinzel era una psiquiatra del asilo Arkham cuando se enamoró del Joker, le ayudó a escapar y se convirtió en la villana Harley Quinn. Fue creada por Paul Dini y Bruce Timm para Batman: La Serie Animada, y su popularidad fue tal que pronto pasaría a formar parte regular del Universo DC.",
         "picture": "https://i.pinimg.com/736x/78/50/fe/7850fefc6bdf25bf951bab0cba545e79.jpg",
-    "squarePic": "https://www.lavoz.com.ar/resizer/yKDFhSPOV8ngqCyJxf3NjfkPJgE=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/G75E3GVL3FBTBDM6IY7WTTLGKY.jpg",
+    "squarePic": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Harley_Quinn_%28Dr._Harleen_Frances_Quinzel%29.png/120px-Harley_Quinn_%28Dr._Harleen_Frances_Quinzel%29.png",
         "name": "Harley quinn"
     }, {
         "id": "Flash",
         "about": "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhaló vapores de agua pesada después de tomar un descanso para fumar dentro de su laboratorio donde había estado trabajando. ​ Como resultado, descubrió que podía correr a una velocidad sobrehumana y que tenía reflejos igualmente rápidos.",
         "picture": "https://i.pinimg.com/originals/2a/33/40/2a33400f5e4b9cd90fc4645c19f28b2e.jpg",
-    "squarePic": "https://i.blogs.es/d60e27/the-flash/840_560.jpeg",
+    "squarePic": "https://storage.googleapis.com/scb22uploads/2015/03/1368781_xl.jpg",
         "name": "Flash"
     },
     {
         "id": "Bane",
         "about": " El personaje suele ser representado como un adversario del superhéroe Batman y pertenece al colectivo de enemigos que conforman su galería central de villanos. Al poseer una mezcla de fuerza bruta e inteligencia excepcional, a Bane a menudo se le atribuye ser el único villano que ha roto al murciélago tanto física como mentalmente. ",
         "picture": "https://1.bp.blogspot.com/-Y27f2bRpwzs/Xt_7EL6NhhI/AAAAAAAB67k/SCNmSLL4xN0Df7ORX1b9kk8_XDzx0vYcwCLcBGAsYHQ/s1600/bane.jpg",
-    "squarePic": "https://nogma.co/wp-content/uploads/2018/12/the-dark-knight-rises-bane.jpg",
+    "squarePic": "https://i.pinimg.com/474x/bb/5c/1a/bb5c1a58fc7742152d16d5820fe8b679.jpg",
         "name": "Bane"
     },
     {
         "id": "Mujer Maravilla",
         "about": "Wonder Woman, el primer personaje femenino empoderado de los cómics, nació en 1941, en medio del movimiento por el sufragio y otros derechos de las mujeres. William Moulton Marston, creador de Wonder Woman, fue un visionario y psicólogo que se inspiró en sus dos parejas para diseñar al personaje.",
         "picture": "https://elcomercio.pe/resizer/a5kviPbJuSbdbzwk92d1ZL_NTYU=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/AAOCDQB5QFBGFGOQE6STYLGOZE.jpg",
-    "squarePic": "https://www.eltiempo.com/files/image_640_428/uploads/2017/05/27/592a2cb922681.jpeg",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstLbOB1xvl0x1fJ1Cftg_wg9HawOWJd4vrkT6xOMIitYO1-o0a6KD2Kj7aXQGA5wFwzI&usqp=CAU",
         "name": "Mujer Maravilla"
     }
 ]
