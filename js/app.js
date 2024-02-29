@@ -17,7 +17,7 @@ const personajes = [
         "id": "Capitan America",
         "about": "Steve Rogers nació durante la Depresión y creció, convirtiéndose en un joven débil en una familia pobre. Su padre murió cuando él era un niño; su madre, durante la adolescencia de Steve. Horrorizado ante un noticiario que mostraba a los nazis en Europa, Rogers intentó alistarse en el ejército.",
         "picture": "https://www.akiracomics.com/imagenes/poridentidad?identidad=c1c19372-97ca-4fef-8d35-c9cb19fbcc01&ancho=850&alto=",
-    "squarePic": "https://e.rpp-noticias.io/xlarge/2020/06/10/005600_954931.jpg",
+    "squarePic": "https://www.shutterstock.com/image-vector/captain-america-logo-art-design-600nw-2272933579.jpg",
         "name": "Capitan America"
     },
     {
@@ -212,7 +212,6 @@ const personajes1 = [
         "name": "Mujer Maravilla"
     }
 ]
-
 function crearEstructuraHTML(personaje) {
     const divHola = document.createElement('div');
     divHola.classList.add('personaje');
@@ -266,10 +265,7 @@ function crearEstructuraHTML(personaje) {
 
     return divHola;
 }
-
-function cargarPersonajes(personajes) {
-    const contenedor = document.getElementById('contenedor');
-
+function cargarPersonajes(personajes, contenedor) {
     personajes.forEach(personaje => {
         const elemento = crearEstructuraHTML(personaje);
         contenedor.appendChild(elemento);
@@ -298,6 +294,33 @@ function cargarPersonajes(personajes) {
     });
 }
 
-// Call the function to load characters from both arrays
+// Cargar todos los personajes al cargar la página
+document.addEventListener('DOMContentLoaded', function () {
+    const contenedor = document.getElementById('contenedor');
+    cargarPersonajes(personajes, contenedor);
+    cargarPersonajes(personajes1, contenedor);
+});
+
+function buscarPersonajes(nombre, personajes) {
+    const nombreMinusculas = nombre.toLowerCase();
+    const resultados = personajes.filter(personaje => personaje.name.toLowerCase().includes(nombreMinusculas));
+    const contenedor = document.getElementById('contenedor');
+    contenedor.innerHTML = ''; // Limpiamos el contenido del contenedor antes de agregar nuevos personajes
+    cargarPersonajes(resultados, contenedor);
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+    const form = document.querySelector('.uno');
+    form.addEventListener('submit', function (event) {
+        event.preventDefault(); // Evita que el formulario se envíe de forma predeterminada
+        const input = document.querySelector('.observar');
+        const nombrePersonaje = input.value.trim(); // Obtenemos el valor del campo de entrada y lo limpiamos
+        if (nombrePersonaje) {
+            buscarPersonajes(nombrePersonaje, personajes.concat(personajes1));
+        }
+    });
+});
+
+// Cargar todos los personajes al cargar la página
 cargarPersonajes(personajes);
 cargarPersonajes(personajes1);
