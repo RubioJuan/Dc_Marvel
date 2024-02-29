@@ -47,14 +47,15 @@ body {
 }
 
 .div-titulo1 button.ver {
-  background-color: #2b67a7;
+  background-color: #2b67a7e1;
   color: #fff;
-  border: none;
   display: block; 
   margin: 0 auto; 
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  width: 30%;
+  height: auto;
 }
 
 /* Estilos para el modal */
@@ -70,7 +71,7 @@ body {
 }
 
 .modal-content {
-  background-color: #fff;
+  background-color: rgba(196, 180, 180, 0.925);
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   position: absolute;
@@ -87,4 +88,20 @@ body {
   font-size: 24px;
   color: #333;
   cursor: pointer;
+}
+.investigacion{
+  display: flex;
+  justify-content: flex-end;
+}
+.ir{
+  width: 30%;
+  height: auto;
+  color: white;
+  background-color: rgb(214, 40, 40);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+}
+.observar{
+  width: 40%;
+  height: auto;
 }
