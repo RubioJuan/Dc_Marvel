@@ -24,7 +24,7 @@ const personajes = [
         "id": "Thor",
         "about": "Thor es el hijo de Odín, señor de los dioses de Asgard, y de Jord, que también es conocida como Gea, la más anciana diosa de la Tierra. Odín quería ser padre de un hijo cuyo poder derivase de la Tierra y de Asgard, así que se apareó con Jord. Odín creó una cueva en Noruega donde Jord dio a luz a Thor.",
         "picture": "https://pm1.aminoapps.com/6857/2a033ee70f8ad81c35510cb13a546a196175597dv2_hq.jpg",
-    "squarePic": "https://cdn.shopify.com/s/files/1/0052/3904/6179/files/wsonnwald_00886_marvel_thor_977db1b4-2044-4800-90b6-7ea623854e88_480x480.png?v=1696232273",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyimPp16GUpmiDev0Loyj5lidKJsqxDjHNxQ&usqp=CAU",
         "name": "Thor"
     },
     {
@@ -51,7 +51,7 @@ const personajes = [
         "id": "Wolverine",
         "about": "Es un mutante que posee sentidos afinados a los animales, capacidades físicas mejoradas, poderosa capacidad de regeneración conocida como un factor de curación, y tres garras retráctiles en cada mano. Wolverine ha sido representado de diversas formas como miembro de los X-Men, Alpha Flight, Fuerza-X y Los Vengadores.",
         "picture": "https://i.pinimg.com/736x/62/cd/66/62cd665950ec45d7a522f1e71e294c77.jpg",
-    "squarePic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87fc0fc8-e756-4cf0-952f-0d17a048b2f5/d89cihf-c5cb49ab-09c1-4ae0-976d-2b25336743b2.jpg/v1/fit/w_375,h_580,q_70,strp/wolverine_by_wizyakuza_d89cihf-375w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTI4IiwicGF0aCI6IlwvZlwvODdmYzBmYzgtZTc1Ni00Y2YwLTk1MmYtMGQxN2EwNDhiMmY1XC9kODljaWhmLWM1Y2I0OWFiLTA5YzEtNGFlMC05NzZkLTJiMjUzMzY3NDNiMi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.NN5Z56TT7Oa-lSDAOf6NE49kg1y9a_r10Vbe3S_7s7k",
+    "squarePic": "https://i1.whakoom.com/small/39/11/a86716603d5b46948142072275503f85.jpg",
         "name": "Wolverine"
     },
     {
@@ -79,7 +79,7 @@ const personajes = [
         "id": "Duende Verde",
         "about": "Es un supervillano ficticio de Marvel Comics y el principal antagonista de la primera película de Spider-Man. Es el fundador y director general de Industrias Oscorp y el padre de Harry Osborn.",
         "picture": "https://pm1.aminoapps.com/6287/a6d14d4645386c4dff6eefb5663bd84cc03311ff_00.jpg",
-    "squarePic": "https://w7.pngwing.com/pngs/837/430/png-transparent-spider-man-green-goblin-supervillain-iron-man-green-goblin-superhero-villain-fictional-character-thumbnail.png",
+    "squarePic": "https://www.tiendascosmic.com/imagenes/comics/reinoscurelduende01_01g.jpg",
         "name": "Duende Verde"
     },
     {
@@ -93,7 +93,7 @@ const personajes = [
         "id": "Mysterio",
         "about": "Es un mago y especialista en efectos especiales que trabaja para un importante estudio de Hollywood con el sueño de hacerse un nombre en la industria del cine. Sin embargo, llegó a ver su carrera en efectos especiales como un trabajo sin futuro. Sus intentos de convertirse en actor fueron mal recibidos, pero se dio cuenta de que su experiencia en ilusiones podría convertirlo en un supervillano eficaz. ",
         "picture": "https://cdn.marvel.com/content/1x/1_88a91.png",
-    "squarePic": "https://www.alexrossart.com/cdn/shop/products/MysterioCOlor_grande.jpg?v=1676644995",
+    "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/10/db/10dbe5194a76a39befff43e69ec62d14.jpg",
         "name": "Mysterio"
     },
     {
@@ -111,42 +111,42 @@ const personajes1 = [
         "id": "Batman",
         "about": "Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo. Presenció el asesinato de sus padres cuando era niño lo marcó profundamente y lo llevó a entrenarse en la perfección física e intelectual para ponerse un disfraz de murciélago con el fin de combatir el crimen.",
         "picture": "https://i.pinimg.com/736x/d8/ab/93/d8ab936f4417dc06ac16af7f15e94508.jpg",
-    "squarePic": "https://mvsnoticias.com/u/fotografias/m/2022/7/23/f425x230-489583_503565_15.jpg",
+    "squarePic": "https://images.cdn1.buscalibre.com/fit-in/360x360/1c/10/1c10b03231c620db5f0fe29412c1cc2f.jpg",
         "name": "Batman"
     }, 
     {
         "id": "Superman",
         "about": "Nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. Cuando era bebé, sus padres, el científico Jor-El y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural.",
         "picture": "https://i.pinimg.com/474x/db/15/ba/db15bac66d1fb1794d53eaa90e5af7db.jpg",
-    "squarePic": "https://lh3.googleusercontent.com/proxy/KwmmT3pOaAil5uBEZIUJhGHgl5Vt4MpnJUW6wRteW4AnbSu0mRH8fPJCgtKWEO_9CKH0PD3Lwj_LzDzDDxFaAh-hLiJ3xg",
+    "squarePic": "https://www.cineycine.com/archivos/2017/06/superman-el-hombre-de-acero-comic-portada-305x440.jpg",
         "name": "Superman"
     },
     {
         "id": "Arrow",
         "about": "Es un superhéroe justiciero que lucha contra el crimen con las artes marciales, tiro con arco y tecnología. En su identidad secreta es Oliver Queen, que vive en Cuidad Estrella como un rico playboy multimillonario y empresario convertido en político liberal franco.",
         "picture": "https://i.pinimg.com/736x/8f/87/fa/8f87fae4bcbce280791978801b7796f1.jpg",
-    "squarePic": "https://vader.news/__export/1595156863628/sites/gadgets/img/2020/07/19/2a.png_2000922940.png",
+    "squarePic": "https://www.totcomic.com/static/bigimgs/120140.jpg",
         "name": "Arrow"
     },
     {
         "id": "Saint Walker",
         "about": "Era un sacerdote en su planeta natal de Astonia (con una esposa y dos hijos), que estaba condenado, ya que su antiguo sol se estaba muriendo. Saint Walker logra calmar a su gente desesperada y darles esperanza ante la extinción, lo que provoca que un anillo de Blue Lantern lo elija como miembro del Blue Lantern Corps, afirmando que tiene la capacidad de infundir una gran esperanza.",
         "picture": "https://2.bp.blogspot.com/--j_Ycdq4cf4/WWE-42jjd_I/AAAAAAAANrg/U6OOY_qXFFkWgRKiYn1QskYRrI5CIEdHACLcBGAs/s1600/saint-walker.jpg",
-    "squarePic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5925e7dd-fbd8-4b74-a807-ca9b2f32cf80/df54in0-27c4b24d-a62c-491c-9df8-2fc48bc104c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU5MjVlN2RkLWZiZDgtNGI3NC1hODA3LWNhOWIyZjMyY2Y4MFwvZGY1NGluMC0yN2M0YjI0ZC1hNjJjLTQ5MWMtOWRmOC0yZmM0OGJjMTA0YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._R_A-XqJ8Obz0aq0kD63202axs9RzHmws6d4qFV5_d8",
+    "squarePic": "https://www.cineycine.com/archivos/2018/06/hal-jordan-green-lantern-corps-saint-walker.jpg",
         "name": "Saint Walker"
     },
     {
         "id": "Linterna Verde",
         "about": "Cuando el agonizante Abin Sur aterrizó en la Tierra y ordenó a su anillo que buscara un sucesor apropiado como Linterna Verde del sector 2814, el piloto de pruebas Hal Jordan, cumplió con los requisitos de ser tanto honesto como libre del miedo, siendo elegido como el nuevo linterna verde del sector.",
         "picture": "https://pm1.aminoapps.com/6149/2577219b15f0dd53d06680c5562ce8925524d2e1_00.jpg",
-    "squarePic": "https://media.revistagq.com/photos/64073419d8bd3a1a762bdf58/1:1/w_675,h_675,c_limit/por-que-linterna-verde-fracaso.jpg",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKoDWRf0kSyOazNbHkN79WZTUOYL1SonXBw&usqp=CAU",
         "name": "Linterna Verde"
     },
     {
         "id": "Black Manta",
         "about": "En la versión de su origen más reconocida, Black Manta era un niño que fue secuestrado por piratas cuando jugaba cerca del océano. Durante su cautiverio, sus captores se toparon con Aquaman pero no fue rescatado por el héroe, lo que lo dejó con un profundo resentimiento.",
         "picture": "https://i.pinimg.com/originals/ff/a1/c8/ffa1c8514637f7886d6d2ed0f8fe58eb.jpg",
-    "squarePic": "https://www.zonanegativa.com/imagenes/2021/09/BLACK-DES.jpg",
+    "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/67/8d/678d56166b34c8e43407e772132ff2d8.jpg",
         "name": "Black Manta"
     },
     {
@@ -167,7 +167,7 @@ const personajes1 = [
         "id": "Acertijo",
         "about": "Edward Nashton, conocido públicamente como El Acertijo, es un enigmático asesino en serie y terrorista que busca atrapar a la élite de Gotham y desenmascarar públicamente a los más oscuros de la ciudad con una serie de verdades de rompecabezas y dispositivos tortuosos.",
         "picture": "https://pm1.aminoapps.com/6313/89e05ee3f6b541e1e23f8a9cba5b823d2fad9c8d_00.jpg",
-    "squarePic": "https://pm1.aminoapps.com/6179/345613d86a7e92854b8d9903da6a5e699d16373b_00.jpg",
+    "squarePic": "https://www.tiendascosmic.com/imagenes/comics/batarkham07_01g.jpg",
         "name": "Acertijo"
     },
     {
@@ -194,7 +194,7 @@ const personajes1 = [
         "id": "Flash",
         "about": "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhaló vapores de agua pesada después de tomar un descanso para fumar dentro de su laboratorio donde había estado trabajando. ​ Como resultado, descubrió que podía correr a una velocidad sobrehumana y que tenía reflejos igualmente rápidos.",
         "picture": "https://i.pinimg.com/originals/2a/33/40/2a33400f5e4b9cd90fc4645c19f28b2e.jpg",
-    "squarePic": "https://storage.googleapis.com/scb22uploads/2015/03/1368781_xl.jpg",
+    "squarePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCdfAVdztURAzyRj_lBFlmmy0klMOjlukPrQtdg80NRBMhKvQ-VY__COvb-d4_fRL2Imk&usqp=CAU",
         "name": "Flash"
     },
     {
