@@ -57,7 +57,7 @@ const personajes = [
     {
         "id": "Loki",
         "about": "Es hijo de los gigantes Farbauti y Laufey y tiene dos hermanos, Helblindi y Býleistr, de los que poco se sabe. En las eddas es descrito como el «origen de todo fraude» y se mezcló con los dioses libremente, llegando a ser considerado por Odín como su hermano de sangre hasta el asesinato de Balder.",
-        "picture": "https://thecomicverse.com.co/wp-content/uploads/2021/07/Loki1.png",
+        "picture": "https://www.previewsworld.com/SiteImage/MainImage/STL182158",
     "squarePic": "https://images.cdn2.buscalibre.com/fit-in/360x360/fe/b6/feb632a376eba45f5dcf484e72d0e92d.jpg",
         "name": "Loki"
     },
